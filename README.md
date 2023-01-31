@@ -1,1 +1,0 @@
-# Annotações do Bootcamp Pottencia Tech
