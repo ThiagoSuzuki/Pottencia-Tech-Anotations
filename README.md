@@ -1,6 +1,6 @@
 # Projeto MVC 
 
-## Projeto guiado simples que visa implantar um pequeno sistema de cadastro utilizando ASP.NET seguindo padrão de software MVC juntamente com Entity Framework para a consulta e registro no banco de dados.
+## Projeto guiado simples que visa implantar um pequeno sistema de cadastro utilizando uma API Web com ASP.NET seguindo padrão de software MVC juntamente com Entity Framework para a consulta e registro no banco de dados.
 
 ### Tecnologias
 
